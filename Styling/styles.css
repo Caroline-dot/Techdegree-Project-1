@@ -93,12 +93,12 @@ a:hover {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
-  border: 3px transparent;
+  border-radius: 30%;
+  border: transparent;
   transition: all .5s;
 }
 .index-head .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(360deg);
 }
 .tag {
   background-color: #05421769;
