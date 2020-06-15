@@ -57,6 +57,17 @@ a:hover {
 .nav a:hover {
   color: white
 }
+.register {
+  text-align: center;
+  background: url('../Images/Background3.jpg') no-repeat top center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+.register {
+  line-height: 1.5;
+  color:  white;
+}
 .quotes {
   text-align: center;
   background: url('../Images/Background2.jpg') no-repeat top center;
@@ -177,6 +188,9 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+.submit {
+  text-align: center;
 }
 
 /* Styles for larger screens */
